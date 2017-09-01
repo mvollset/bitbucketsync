@@ -1,0 +1,13 @@
+{
+  "name": "bitsyncbucket",
+  "version": "0.2.0",
+  "description": "Small utilty for pulling all source from a bitbucket account to local server",
+  "main": "sync.js",
+  "repository": "",
+  "author": "Martin Vollset <mvollset@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "bitbucket-api": "^0.1.0",
+    "request": "^2.81.0"
+  }
+}
